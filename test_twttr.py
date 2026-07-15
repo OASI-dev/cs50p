@@ -5,3 +5,5 @@ def test_shorten():
     assert shorten("hello") == "hll"
     assert shorten("world") == "wrld"
     assert shorten("CS50") == "CS50"
+
+#pytest test_twttr.py(run it to the terminal)

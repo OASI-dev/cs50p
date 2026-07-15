@@ -13,3 +13,5 @@ except pyfiglet.FontNotFound:
 
 text = input("Input: ")
 print(figlet.renderText(text))
+
+#python figlet.py -f rectangles.copy and send it in the terminal once and when its comes input: then go.

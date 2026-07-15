@@ -18,3 +18,4 @@ except requests.RequestException:
 
 total = amount * price
 print(f"${total:,.4f}")
+#dont know why its failing
